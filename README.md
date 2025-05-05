@@ -5,3 +5,6 @@ Question Ideas?
 3. Which categories is ordered most by cities? (Could use this information to produce more of this product)
 4. Using E-Commerence Sales Dataset - People with the most orders in the dataset?
 5. Using E-Commerence Sales Dataset - Which month has the highest sales amount?
+
+
+https://www.kaggle.com/datasets/marianadeem755/stock-market-data
