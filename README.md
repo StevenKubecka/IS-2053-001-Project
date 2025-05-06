@@ -10,6 +10,5 @@ Question Ideas?
 https://www.kaggle.com/datasets/marianadeem755/stock-market-data
 Question Ideas?
 1. WiP Something to do with Annual Percent Change (SMK)
-2. Which date had the highest average for all companies?
-3. What was the biggest difference in 52-week high and 52-week low?
-4. Which company on average had the highest and the lowest amount?
+2. Which year did each company have their highest and lowest shares?
+3. 
