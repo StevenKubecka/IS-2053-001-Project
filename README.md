@@ -9,3 +9,4 @@ Question Ideas?
 15Y Stock Data: NVDA, APPL, MSFT, GOOG, AMZN
 https://www.kaggle.com/datasets/marianadeem755/stock-market-data
 Question Ideas?
+1. WiP Something to do with Annual Percent Change (SMK)
