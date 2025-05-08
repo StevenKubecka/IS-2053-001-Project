@@ -6,5 +6,5 @@ Question Ideas?
 1. Visualizing the Average Percent Change of the five stocks
 2. Which year did each company have their highest and lowest shares?
 3. What is the average closing price for each company over the last 15 years?
-4. Using this data, which company should someone invest in for the best return on investments?
+4. Using this data, which company should a business invest in for the best return on investments?
 5. Visualizing the Normalized Average True Range of the five stocks
